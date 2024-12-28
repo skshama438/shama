@@ -1,0 +1,6 @@
+a=["shama","hi","babu"]
+b=5
+c=[]
+for x in a:
+    c.append(f"{b}{x}")
+print(c)
